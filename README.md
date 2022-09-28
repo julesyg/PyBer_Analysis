@@ -16,9 +16,4 @@ Weekly fares were plotted to ascertain which city type garnered the highest tota
 
 ## SUMMARY
 
-In conclusion, the data illustrates that Urban cities have an abundance of drivers for the greater demand of the urban population who use rideshare more than those residing in Suburban and Rural cities. The average fare per ride and driver in Urban cities reflects that rides are shorter and taken more often, whereas those living in Rural cities will pay an average of $10 more per ride with Rural drivers earning $38.92 more per average fare, due to fewer drivers and perhaps longer trips. More drivers in Rural cities would help to lower the average fare per ride, but will also lower driver's average fare. Suburban cities appear to be a "sweet spot" for drivers and consumers with a lower average fare per ride at $34.97
-
-
-Summary:
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-
+In conclusion, the data illustrates that Urban cities have an abundance of drivers for the greater demand of the urban population who use rideshare more than those residing in Suburban and Rural cities. The average fare per ride and driver in Urban cities reflects that rides are shorter and taken more often, whereas those living in Rural cities will pay an average of $10 more per ride with Rural drivers earning $38.92 more per average fare, due to fewer drivers and perhaps longer trips. More drivers in Rural cities would help to lower the average fare per ride, but will also lower driver's average fare. Suburban cities appear to be a "sweet spot" for drivers and consumers with a lower average fare per ride at $30.97 and a much higher average drivers fare than Urban city drivers at $39.50. Overall, we can see that there does seem to be a demand for more drivers in Suburban and Rural cities, with Urban cities having in the opposite issue. 
